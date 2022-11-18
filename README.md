@@ -1,4 +1,4 @@
-Калькулятор с использованием библиотеки PyQt5 и QTDesigner
+Калькулятор с использованием библиотеки PyQt5 и QTDesigner.
 
 pip install PyQt5
 
